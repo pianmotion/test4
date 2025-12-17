@@ -149,7 +149,6 @@ void demoBasicFunctions() {
 void demoTasks() {
     printf("\n  Zadachi 10.2.2 - 10.2.6\n\n");
 
-    printf("Создаем новый список:\n");
     addToHead(15);
     addToHead(8);
     addToHead(23);
