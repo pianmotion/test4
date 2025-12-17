@@ -17,7 +17,7 @@ void printList() {
         printf("(%d) -> ", ptr->data);
         ptr = ptr->next;
     }
-    printf("NULL\n");
+    printf("NULL09fhe0fehjq0fheqj0[sdvklnda'ivne'ivnevoiwnfqehf[0h\n");
 }
 
 void addToHead(int value) {
@@ -149,7 +149,6 @@ void demoBasicFunctions() {
 void demoTasks() {
     printf("\n  Zadachi 10.2.2 - 10.2.6\n\n");
 
-    printf("Создаем нfbsfbvsvdvavовый список:\n");
     addToHead(15);
     addToHead(8);
     addToHead(23);
