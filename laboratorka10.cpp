@@ -12,7 +12,7 @@ void task_10_1_1_1() {
     scanf_s("%d", &N);
 
     if (N > MAX_SIZE) {
-        printf("те сказали не больше сbsjvnsdovinvionveivbrbwbwrgrwgrgwgwта вводить\n");
+        printf("те сказали не больше сbsjvnsdovinvionveivsvsvsdvsdvbrbwbwrgrwgrgwgwта вводить\n");
         return;
     }
 
